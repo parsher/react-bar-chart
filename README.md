@@ -49,9 +49,9 @@ Check below the api website.
 
 ## Structures
 
-component : component included
-api : api included
-const : const included
-helper: helper included
-interface: interface included
-.env: API KEY included
+-   component : component included
+-   api : api included
+-   const : const included
+-   helper: helper included
+-   interface: interface included
+-   .env: API KEY included
